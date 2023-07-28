@@ -1,0 +1,19 @@
+{
+  "name": "open-ai-integration",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "create-vite": "^4.4.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "axios": "^1.4.0",
+    "vite": "^4.4.6"
+  }
+}
