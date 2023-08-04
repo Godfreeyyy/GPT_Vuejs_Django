@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 from ..router import AIResponse, UserRequest, FakeDB
 from fastapi import APIRouter, Depends, Query
 import openai
-API_KEY = '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'
+API_KEY = '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'
 # loading the API key from the secret_key file
 openai.api_key = API_KEY
 
